@@ -1,0 +1,259 @@
+body{
+    background-color: white;
+    color: white;
+}
+pre{
+    color: gray;
+    font-size: 1.5vw;
+}
+img{
+    width: 30vw;
+    height: 20vw;
+}
+button{
+    width: 12vw;
+    height: 4vw;
+    position: absolute;
+    left: 42vw;
+    top: 280vw;
+    cursor: pointer;
+    background-color: moccasin;
+    color: white;
+    font-size: 1.5vw;
+    font-weight: 300;
+}
+button:hover{
+    color: blue;
+    background-color: white;
+}
+/*---------------------------------------------------------------------------------------------------------------------*/
+.img1{
+    width: 6vw;
+    height: 3vw;
+    padding-left:15vw;
+    cursor: pointer;
+}
+.text1{
+    font-size: 1vw;
+    float: right;
+    clear: left;
+    cursor: pointer;
+    color: white;
+}
+.hover1:hover{
+    color: coral;
+    text-decoration: underline coral;
+}
+.img2{
+    width: 24vw;
+    height: 35vw;
+    position: absolute;
+    top: 1vw;
+    left: 38vw;
+}
+.h1{
+    position: absolute;
+    top: 32vw;
+    left: 38vw;
+    font-family: 'Alegreya';
+    font-size: 3.5vw;
+}
+.text2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3vw;
+    position: absolute;
+    top: 37vw;
+    left: 33vw;
+}
+.icon{
+    position: absolute;
+    top: 26vw;
+}
+.btn1 , .btn2{
+    background-color: white;
+    color:black;
+    cursor: pointer;
+    width: 10vw;
+    height: 5vw;
+    font-size: 1.5vw;
+    position: absolute;
+    top: 45vw;
+}
+.btn1:hover{
+    background-color: bisque;
+    color: blue;
+}
+.btn2:hover{
+    background-color: bisque;
+    color: blue;
+}
+.btn1 {
+    left:38vw
+}
+.btn2{
+    left: 50vw;
+}
+.part1{
+    background-image: url(shutterstock_277750193.jpeg);
+    width: 100%;
+    height: 55vw;
+}
+/*--------------------------------------------------------------------------------------------------------------------------*/
+.img3{
+    float: left;
+    width: 30vw;
+    height: 30vw;
+    clear: right;
+}
+.text3{
+    color: dimgray;
+    font-size: 2.3vw;
+    position: absolute;
+    left: 35vw;
+    top: 65vw;
+}
+.text4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/*-----------------------------------------------------------------------------------------------------------------------*/
+.part3{
+    background-color: lightgray;
+    position: absolute;
+    top: 115vw;
+    width: 100%;
+    height: 30vw;
+    font-size: 2.3vw;
+    color: gray;
+}
+.img4{
+    width: 30vw;
+    height: 30vw;
+    float: right;
+    clear: left;
+}
+
+.text4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkorange;
+    font-size: 2.5vw;
+}
+h2{
+    color: black;
+}
+/*----------------------------------------------------------------------------------------------------------------------*/
+.img5{
+    width: 100%;
+    height: 35vw;
+    position: absolute;
+    top: 148vw;
+    left: 0;
+}
+/*-------------------------------------------------------------------------------------------------------------------------*/
+.part5{
+    position: absolute;
+    top: 183vw;
+    left: 38vw;
+    font-size: 1.7vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: black;
+}
+/*-------------------------------------------------------------------------------------------------------------------------*/
+.box1{
+    position: absolute;
+    top: 200vw;
+    left: 6vw;
+}
+.box2{
+    position: absolute;
+    top: 200vw;
+    left: 36vw;
+}
+.box3{
+    position: absolute;
+    top: 200vw;
+    left: 66vw;
+}
+.box1 , .box2 , .box3 {
+    font-size: 2vw;
+    font-weight: 400;
+    width:10vw ;
+    height: 10vw;
+}
+/*----------------------------------------------------------------------------------------------------------------------------*/
+.box4{
+    position: absolute;
+    top: 245vw;
+    left: 6vw;
+}
+.box5{
+    position: absolute;
+    top: 245vw;
+    left: 36vw;
+}
+.box6{
+    position: absolute;
+    top: 245vw;
+    left: 66vw;
+}
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+.part6{
+    background-image: url(shutterstock_277750193.jpeg);
+    width: 100%;
+    height:35vw;
+    margin-top: 230vw;
+}
+
+.text6{
+    position: absolute;
+    top:300vw;
+    left: 38vw;
+    font-size: 3vw;
+    color: white;
+}
+.text7{
+    position: absolute;
+    top:305vw;
+    left: 15vw;
+    font-size: 2vw;
+    color: white;
+}
+.btn3 , .btn4{
+    background-color: white;
+    color:black;
+    cursor: pointer;
+    width: 5vw;
+    height: 3vw;
+    font-size: 1.5vw;
+    border-radius: 1000px;
+    position: absolute;
+    top: 315vw;
+}
+.btn3{
+    left: 40vw;
+}
+.btn4{
+    left: 45vw;
+}
+.btn3:hover{
+    background-color: wheat;
+    color: blueviolet;
+}
+.btn4:hover{
+    background-color: wheat;
+    color: blueviolet;
+}
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+.img6{
+    width: 30vw;
+    height: 30vw;
+    float: right;
+    clear: left;
+}
+/*--------------------------------------------------------------------------------------------------------------------------------*/
+.img8{
+    background-color: black;
+    position: absolute;
+    left: 35vw;
+}
